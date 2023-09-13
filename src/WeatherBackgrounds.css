@@ -1,0 +1,41 @@
+/* WeatherBackgrounds.css */
+
+.clear {
+    background: url('../public/images/clear-sky-image.jpg')no-repeat;
+    background-size: cover;
+  }
+  
+  .partly-cloudy {
+    background: url('../public/images/partly-cloudy-image.jpg')no-repeat;
+    background-size: cover;
+  }
+  
+  .rainy {
+    background: url('../public/images/rainy-image.avif')no-repeat;
+    background-size: cover;
+  }
+  
+  /* Add more classes for other weather conditions */
+  
+  .cold {
+    background: url('../public/images/cold-image.jpg')no-repeat;
+    background-size: cover;
+  }
+  
+  .mild {
+    background: url('../public/images/mild-image.jpg')no-repeat;
+    background-size: cover;
+  }
+  
+  .hot {
+    background: url('../public/images/hot-image.jpg')no-repeat;
+    background-size: cover;
+  }
+  
+  .default-background{
+    
+    background: url('../public/images/background.jpg') no-repeat ;
+    background-size: cover;
+  }
+  /* Add more classes for other temperature ranges */
+  

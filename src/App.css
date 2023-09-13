@@ -12,6 +12,13 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+@media (max-width: 768px) {
+  .container {
+    font-size: 1.5em;
+  }
+}
+
+
 
 .App-header {
   background-color: #282c34;
@@ -36,3 +43,4 @@
     transform: rotate(360deg);
   }
 }
+
