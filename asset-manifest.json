@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Yashwantharikishan/Weather_Website/static/css/main.aea9037c.css",
-    "main.js": "/Yashwantharikishan/Weather_Website/static/js/main.6709cc8b.js",
-    "static/js/787.2a38e5c6.chunk.js": "/Yashwantharikishan/Weather_Website/static/js/787.2a38e5c6.chunk.js",
-    "static/media/mild-image.jpg": "/Yashwantharikishan/Weather_Website/static/media/mild-image.ebbc4b6e4aa871880281.jpg",
-    "static/media/cold-image.jpg": "/Yashwantharikishan/Weather_Website/static/media/cold-image.376c55079095764cd86f.jpg",
-    "static/media/clear-sky-image.jpg": "/Yashwantharikishan/Weather_Website/static/media/clear-sky-image.fe937d180479e0b975e6.jpg",
-    "static/media/rainy-image.avif": "/Yashwantharikishan/Weather_Website/static/media/rainy-image.82926786483f7ed29888.avif",
-    "static/media/background.jpg": "/Yashwantharikishan/Weather_Website/static/media/background.557a9309bec30e5e09e5.jpg",
-    "static/media/hot-image.jpg": "/Yashwantharikishan/Weather_Website/static/media/hot-image.c5d4e9cfd37b1d4ef7c3.jpg",
-    "static/media/partly-cloudy-image.jpg": "/Yashwantharikishan/Weather_Website/static/media/partly-cloudy-image.3db7b6f5cd5d6a8f268b.jpg",
-    "index.html": "/Yashwantharikishan/Weather_Website/index.html",
-    "main.aea9037c.css.map": "/Yashwantharikishan/Weather_Website/static/css/main.aea9037c.css.map",
-    "main.6709cc8b.js.map": "/Yashwantharikishan/Weather_Website/static/js/main.6709cc8b.js.map",
-    "787.2a38e5c6.chunk.js.map": "/Yashwantharikishan/Weather_Website/static/js/787.2a38e5c6.chunk.js.map"
+    "main.css": "/Weather_Website/static/css/main.6d1af2c4.css",
+    "main.js": "/Weather_Website/static/js/main.23ca24cb.js",
+    "static/js/787.2a38e5c6.chunk.js": "/Weather_Website/static/js/787.2a38e5c6.chunk.js",
+    "static/media/mild-image.jpg": "/Weather_Website/static/media/mild-image.ebbc4b6e4aa871880281.jpg",
+    "static/media/cold-image.jpg": "/Weather_Website/static/media/cold-image.376c55079095764cd86f.jpg",
+    "static/media/clear-sky-image.jpg": "/Weather_Website/static/media/clear-sky-image.fe937d180479e0b975e6.jpg",
+    "static/media/rainy-image.avif": "/Weather_Website/static/media/rainy-image.82926786483f7ed29888.avif",
+    "static/media/background.jpg": "/Weather_Website/static/media/background.557a9309bec30e5e09e5.jpg",
+    "static/media/hot-image.jpg": "/Weather_Website/static/media/hot-image.c5d4e9cfd37b1d4ef7c3.jpg",
+    "static/media/partly-cloudy-image.jpg": "/Weather_Website/static/media/partly-cloudy-image.3db7b6f5cd5d6a8f268b.jpg",
+    "index.html": "/Weather_Website/index.html",
+    "main.6d1af2c4.css.map": "/Weather_Website/static/css/main.6d1af2c4.css.map",
+    "main.23ca24cb.js.map": "/Weather_Website/static/js/main.23ca24cb.js.map",
+    "787.2a38e5c6.chunk.js.map": "/Weather_Website/static/js/787.2a38e5c6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aea9037c.css",
-    "static/js/main.6709cc8b.js"
+    "static/css/main.6d1af2c4.css",
+    "static/js/main.23ca24cb.js"
   ]
 }
